@@ -29,4 +29,4 @@
 파이콘의 스텝이 사건/사고가 발생했을 때 가장 먼저 도움을 드릴 수 있기를 희망하고 있으며, 신속하고 적절한 대응을 위해 노력하겠습니다.
 
 **사건 접수 form:**  
-https://docs.google.com/forms/d/e/1FAIpQLSe4396raftByu9KQWoDh4XEh0lyyFcMfBUpb9yBgQSDH2xxxw/viewform?usp=sf_link
+https://forms.gle/eiagGk1ae9yq73ir7
