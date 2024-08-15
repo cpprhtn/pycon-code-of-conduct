@@ -14,7 +14,23 @@
 행동강령을 개선하는 과정에 여러분도 동참할 수 있습니다. 제안, 의견 혹은 행동강령과 관련된 어떠한 내용이라도 언제든지 자유롭게 [coc@pycon.kr](mailto:coc@pycon.kr) 로 보내주세요. 보내주신 의견은 준비위원회가 면밀히 검토하겠습니다.  
 
 파이콘 한국 준비위원회는 투명성과 기록의 가치를 믿습니다. 행동강령에 변경 사항이 있다면 그 내역을 모두 기록하고 웹사이트를 통해 공개할 것입니다.   
-    
+
+## mkdocs build
+### 1. install mkdocs
+```
+pip install -r requirements.txt
+```
+
+### 2. run
+```
+mkdocs serve
+```
+
+### 3. open website
+```
+http://127.0.0.1:8000/ko/
+```
+
 [릴리즈 노트](https://github.com/pythonkr/pycon-code-of-conduct/releases)  
       
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">크리에이티브 커먼즈 저작자표시 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
