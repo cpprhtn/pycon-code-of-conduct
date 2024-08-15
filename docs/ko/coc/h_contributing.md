@@ -8,22 +8,22 @@
 
 ### 참고한 문서
 
-- FEConf 2024 CoC (2024)
-- DebConf CoC (2024)
-- Debian Code of Conduct (2024)
-- AWS 행동 강령 (2024)
-- C++Korea 행동강령 (2024)
-- 인프콘 2024 - 이것만은 지켜요 (2024)
-- GoogleCloudNext24 Event Conduct (2024)
-- DEFCON 행동 강령 (2021)
-- OpenInfra Code of Conduct (2020)
-- Elastic 커뮤니티 행동규범 (2019)
-- Github Open Source Guides 행동 강령 (2019)
-- JSConf EU 2019 행동 강령 (2019)
-- JSConf Korea 2019 행동 강령 (2019)
-- PyCon US 2019 행동 강령 (2019)
-- 스포카 크리에이터 행동 강령 (2018)
-- How and why we improved DjangoCon Europe’s Code of Conduct (2018)
+- [FEConf 2024 CoC (2024)](https://2024.feconf.kr/)
+- [DebConf CoC (2024)](https://www.debconf.org/codeofconduct.shtml)
+- [Debian Code of Conduct (2024)](https://www.debian.org/code_of_conduct)
+- [AWS 행동 강령 (2024)](https://d1.awsstatic.com/legal/communitycodesofconduct/AWS_Code_of_Conduct_%20Korean_2023-04-07.pdf)
+- [C++Korea 행동강령 (2024)](https://github.com/CppKorea/CodeOfConduct)
+- [인프콘 2024 - 이것만은 지켜요 (2024)](https://www.inflearn.com/pages/infcon-2024-coc)
+- [GoogleCloudNext24 Event Conduct (2024)](https://cloud.withgoogle.com/next/tos?_gl=1%2alu98s9%2a_up%2aMQ..%2a_ga%2aMTIyNzkxMTUyNy4xNzIyMTQ0NzMw%2a_ga_WH2QY8WWF5%2aMTcyMjE0NDczMC4xLjAuMTcyMjE0NDczMC4wLjAuMA..%2a_ga_RZ3F93BX2G%2aMTcyMjE0NDczMC4xLjAuMTcyMjE0NDczMC4wLjAuMA..#conduct)
+- [DEFCON 행동 강령 (2021)](https://medium.com/@defcon201/about-us-defcon-201-code-of-conduct-dfe0f26bfd49)
+- [OpenInfra Code of Conduct (2020)](https://www.openstack.org/legal/community-code-of-conduct/)
+- [Elastic 커뮤니티 행동규범 (2019)](https://www.elastic.co/kr/community/codeofconduct)
+- [Github Open Source Guides 행동 강령 (2019)](https://opensource.guide/ko/code-of-conduct/)
+- [JSConf EU 2019 행동 강령 (2019)](https://2019.jsconf.eu/code-of-conduct/)
+- [JSConf Korea 2019 행동 강령 (2019)](https://2019.jsconfkorea.com/coc)
+- [PyCon US 2019 행동 강령 (2019)](https://us.pycon.org/2019/about/code-of-conduct/#!)
+- [스포카 크리에이터 행동 강령 (2018)](https://spoqa.github.io/2018/06/28/code-of-conduct.html)
+- [How and why we improved DjangoCon Europe’s Code of Conduct (2018)](https://medium.com/@mxsash/how-and-why-we-improved-djangocon-europes-code-of-conduct-8c203eb591ee)
 
 ## 제안할 내용이 있다면 기여해주세요
 
