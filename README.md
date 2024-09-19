@@ -28,7 +28,7 @@ mkdocs serve
 
 ### 3. open website
 ```
-http://127.0.0.1:8000/ko/
+http://127.0.0.1:8000/
 ```
 
 [릴리즈 노트](https://github.com/pythonkr/pycon-code-of-conduct/releases)  
